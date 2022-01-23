@@ -21,23 +21,31 @@ Result :
 
 <details>
   <summary>Hacker's keyboard (QWERTY, LIKE WINDOWS KEYBOARD FEATURE)</summary>
+
 ![FINAL_0](images/run_final_2.1_hacker_keyboard_26_percent.jpg)
+
 </details>
 
 <details>
   <summary>MULTI DATABASE CLIENT</summary>
+
 ![FINAL_1](images/setup_database_client_3.jpg)
+
 </details>
 
 <details>
   <summary>CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)</summary>
+
 ![FINAL_1](images/run_final_3.jpg)
+
 </details>
 
 
 <details>
   <summary>NesJS latest no issue tested (After install multi nodejs / NVM)</summary>
+
 ![FINAL_2](images/run_final_4.jpg)
+
 </details>
 
 
