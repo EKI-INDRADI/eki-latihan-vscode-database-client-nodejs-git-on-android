@@ -41,6 +41,8 @@ Result :
 
 ![FINAL_1](images/setup_database_client_3.jpg)
 
+[==> CONFIG](EKI_BEST_CONFIG_DATABASE_CLIENT.md)
+
 </details>
 
 <details>
