@@ -32,7 +32,7 @@ Result :
 ![FINAL_2](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/images/run_final_4.jpg)
 
 
-# tutorial in file EKI_BEST_CONFIG.txt
+# tutorial in file EKI_BEST_CONFIG.md
 
 
 # Regards,
