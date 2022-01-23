@@ -13,9 +13,9 @@ Tools Apk:
 - Hacker's Keyboard 
 
 Result :
-- ubuntu server 20.04 (CLI-ONLY) on android OS
+- Ubuntu server 20.04 (CLI-ONLY) on android OS
 - NVM (multi nodejs version)
-- code-server (visual studio code)
+- Code Server (visual studio code on Web)
 - Database Client (cweijan from Visual Studio Code extention)
 
 

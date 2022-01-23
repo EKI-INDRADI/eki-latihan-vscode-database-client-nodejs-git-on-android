@@ -1,7 +1,13 @@
-<details>
-  <summary>HACKER'S KEYBOARD</summary>
+# download hacker keyboard on google playstore
 
-[HACKER'S KEYBOARD](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/EKI_BEST_CONFIG_HACKER_KEYBOARD.md)
+[DOWNLOAD](https://play.google.com/store/apps/details?id=org.pocketworkstation.pckeyboard&hl=en&gl=US)
 
+```bash
+go to setting > currnt keyboard > change to Hacker keyboard
 
-</details>
+why ? for qwerty feature like CTRL, ALT ,TAB , many Symbol , etc 
+
+setting for 6,7'in display   :
+```
+
+![1](images/setup_hacker_keyboard.jpg)
