@@ -24,7 +24,7 @@ Result :
 
 ![FINAL_0](images/run_final_2.1_hacker_keyboard_26_percent.jpg)
 
-[CONFIG](EKI_BEST_CONFIG_HACKER_KEYBOARD.md)
+[==> CONFIG](EKI_BEST_CONFIG_HACKER_KEYBOARD.md)
 
 </details>
 
@@ -32,7 +32,7 @@ Result :
 <details>
   <summary>Server Configuration</summary>
 
-[CONFIG](EKI_BEST_CONFIG_INSTALL_UBUNTU_SERVER_20.04LTS.md)
+[==> CONFIG](EKI_BEST_CONFIG_INSTALL_UBUNTU_SERVER_20.04LTS.md)
 
 </details>
 
