@@ -39,6 +39,10 @@
 - sudo ufw disabled
 - apt-get install openssh-server
 
+
+passwd root
+masuk123
+
 nano /etc/init/ssh.conf
 Port 2222
 PermitRootLogin yes 

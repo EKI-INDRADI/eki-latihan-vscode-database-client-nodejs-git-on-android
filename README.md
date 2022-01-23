@@ -2,9 +2,8 @@
 
 # Tested 2022-01-22
 
-
 Hardware :
-- Xiaomi Redmi Note 9 Pro
+- Xiaomi Redmi Note 9 Pro  (WITHOUT ROOT)
 
 Tools Apk: 
 - Andronix (version 4.x) , https://docs.andronix.app/unmodded-distros/unmodded-os-installation/
@@ -17,6 +16,11 @@ Result :
 - NVM (multi nodejs version)
 - Code Server (visual studio code on Web)
 - Database Client (cweijan from Visual Studio Code extention)
+
+
+# NOTE ANDROID WITHOUT ROOT
+
+# NOTE ANDRONIX CANT USE DOCKER https://docs.andronix.app/get-started/limitations/
 
 
 <details>
@@ -52,6 +56,8 @@ NesJS latest no issue tested (After install multi nodejs / NVM)
 
 <details>
   <summary>CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)</summary>
+
+  [==> CONFIG](EKI_BEST_CONFIG_CODE_SERVER.md)
 
 ![FINAL_1](images/run_final_3.jpg)
 
