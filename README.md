@@ -19,7 +19,6 @@ Result :
 
 
 # NOTE ANDROID WITHOUT ROOT
-
 # NOTE ANDRONIX CANT USE DOCKER https://docs.andronix.app/get-started/limitations/
 
 
@@ -73,6 +72,41 @@ NesJS latest no issue tested (After install multi nodejs / NVM)
 
 </details>
 
+
+
+# NOTE RUN
+
+for run code-server better from termux console
+
+```bash
+
+./start-ubuntu20.sh
+
+code-server /home/FILES
+
+open localhost:8080
+
+```
+
+for run node / nodejs library better from ssh with JuiceSSH
+
+root@127.0.0.1 -p 2222
+masuk123
+
+```bash
+
+Angular ex : 
+
+ng serve
+
+open localhost:4200
+
+NestJs ex : 
+
+npm run start:Dev
+
+open localhost:3000
+```
 
 
 
