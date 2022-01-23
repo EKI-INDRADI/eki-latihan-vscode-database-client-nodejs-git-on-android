@@ -23,7 +23,7 @@ Result :
 
 
 <details>
-  <summary>Hacker's keyboard (QWERTY, LIKE WINDOWS KEYBOARD FEATURE)</summary>
+  <summary>[click step 1] Hacker's keyboard (QWERTY, LIKE WINDOWS KEYBOARD FEATURE)</summary>
 
 ![FINAL_0](images/run_final_2.1_hacker_keyboard_26_percent.jpg)
 
@@ -33,7 +33,7 @@ Result :
 
 
 <details>
-  <summary>Server Configuration</summary>
+  <summary>[click step 2] Server Configuration</summary>
 
 [==> CONFIG](EKI_BEST_CONFIG_INSTALL_UBUNTU_SERVER_20.04LTS.md)
 
@@ -41,7 +41,7 @@ Result :
 
 
 <details>
-  <summary>Install Nodejs Multi Version</summary>
+  <summary>[click step 3] Install Nodejs Multi Version</summary>
 
 [==> CONFIG](EKI_BEST_CONFIG_INSTALL_NODEJS_MULTI_VERSION.md)
 
@@ -54,7 +54,7 @@ NesJS latest no issue tested (After install multi nodejs / NVM)
 
 
 <details>
-  <summary>CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)</summary>
+  <summary>[click step 4] CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)</summary>
 
   [==> CONFIG](EKI_BEST_CONFIG_CODE_SERVER.md)
 
@@ -64,7 +64,7 @@ NesJS latest no issue tested (After install multi nodejs / NVM)
 
 
 <details>
-  <summary>Multi Databases Client</summary>
+  <summary>[click step 5] Multi Databases Client</summary>
 
 ![FINAL_1](images/setup_database_client_3.jpg)
 
