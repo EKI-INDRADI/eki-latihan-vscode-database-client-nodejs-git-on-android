@@ -20,16 +20,16 @@ Result :
 
 
 # Hacker's keyboard (QWERTY, LIKE WINDOWS KEYBOARD FEATURE)
-![FINAL_0](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/images/run_final_2.1_hacker_keyboard_26_percent.jpg)
+![FINAL_0](images/run_final_2.1_hacker_keyboard_26_percent.jpg)
 
 # MULTI DATABASE CLIENT
-![FINAL_1](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/images/setup_database_client_3.jpg)
+![FINAL_1](images/setup_database_client_3.jpg)
 
 # CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)
-![FINAL_1](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/images/run_final_3.jpg)
+![FINAL_1](images/run_final_3.jpg)
 
 # NesJS latest no issue tested (After install multi nodejs / NVM)
-![FINAL_2](https://github.com/EKI-INDRADI/eki-latihan-vscode-database-client-nodejs-git-on-android/raw/master/images/run_final_4.jpg)
+![FINAL_2](images/run_final_4.jpg)
 
 
 # tutorial in file EKI_BEST_CONFIG.md
