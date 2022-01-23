@@ -9,10 +9,12 @@ Hardware :
 Tools Apk: 
 - Andronix (version 4.x) , https://docs.andronix.app/unmodded-distros/unmodded-os-installation/
 - Termux https://f-droid.org/en/packages/com.termux/ 
+- JuiceSSH
 - Hacker's Keyboard 
 
 Result :
 - ubuntu server 20.04 (CLI-ONLY) on android OS
+- NVM (multi nodejs version)
 - code-server (visual studio code)
 - Database Client (cweijan from Visual Studio Code extention)
 
