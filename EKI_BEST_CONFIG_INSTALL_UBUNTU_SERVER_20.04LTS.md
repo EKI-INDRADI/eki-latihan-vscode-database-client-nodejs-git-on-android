@@ -1,4 +1,4 @@
-# install INSTALL UBUNTU SERVER 20.04LTS
+# INSTALL UBUNTU SERVER 20.04LTS
 
 
 [DOWNLOAD ANDRONIX](https://play.google.com/store/apps/details?id=studio.com.techriz.andronix)

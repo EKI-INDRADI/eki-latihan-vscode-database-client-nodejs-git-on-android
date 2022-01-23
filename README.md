@@ -36,14 +36,19 @@ Result :
 
 </details>
 
+
 <details>
-  <summary>Multi Databases Client</summary>
+  <summary>Install Nodejs Multi Version</summary>
 
-![FINAL_1](images/setup_database_client_3.jpg)
+[==> CONFIG](EKI_BEST_CONFIG_INSTALL_NODEJS_MULTI_VERSION.md)
 
-[==> CONFIG](EKI_BEST_CONFIG_DATABASE_CLIENT.md)
+NesJS latest no issue tested (After install multi nodejs / NVM)
+
+![FINAL_2](images/run_final_4.jpg)
 
 </details>
+
+
 
 <details>
   <summary>CODE-SERVER (After setting: font 8, diable auto complite, disable minimap)</summary>
@@ -54,11 +59,16 @@ Result :
 
 
 <details>
-  <summary>NesJS latest no issue tested (After install multi nodejs / NVM)</summary>
+  <summary>Multi Databases Client</summary>
 
-![FINAL_2](images/run_final_4.jpg)
+![FINAL_1](images/setup_database_client_3.jpg)
+
+[==> CONFIG](EKI_BEST_CONFIG_DATABASE_CLIENT.md)
 
 </details>
+
+
+
 
 
 
